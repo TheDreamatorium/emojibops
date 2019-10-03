@@ -127,5 +127,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },
+    {
+        title: "Sweet Child o' Mine",
+        artist: ['Guns N\' Roses'],
+        featuredArtist: [],
+        emojiImgs: "🔫🌹🎸🐍😇🚸",
+        musicVideo: "https://www.youtube.com/watch?v=1w7OgIMMRc4",
+        genres: ["Hard Rock", "Power Ballad"],
+        year: 1988
     }
 ]
